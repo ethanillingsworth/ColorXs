@@ -1,9 +1,9 @@
 # ColorXs
 Make your terminal output a little more colorful.
 
-![PyPI - Version](https://img.shields.io/pypi/v/colorx)
-![PyPI - Python Version](https://img.shields.io/pypi/pyversions/colorx)
-![PyPI - License](https://img.shields.io/pypi/l/colorx)
+![PyPI - Version](https://img.shields.io/pypi/v/colorxs)
+![PyPI - Python Version](https://img.shields.io/pypi/pyversions/colorxs)
+![PyPI - License](https://img.shields.io/pypi/l/colorxs)
 
 ## Table of Contents
 * [Install](#install)
