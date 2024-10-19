@@ -84,6 +84,3 @@ class Color(ColorLogic):
 
     # PURPLES
     PURPLE = ColorLogic(RGBValue(128, 0, 128))
-
-
-print(f"{Color.BLUE}")
